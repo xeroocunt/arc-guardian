@@ -1,5 +1,4 @@
 .env
 __pycache__/
 *.pyc
-ethers.min.js
 arc_guardian_bg_1778675020676.png
